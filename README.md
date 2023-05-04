@@ -90,7 +90,7 @@ Directors like James Cameron and Christopher Nolan are capable of amassing billi
 
 Though these are considerably large percentages, other languages appear to be far more likely to have dominating figures and films. Hayao Miyazaki, the Japanese animator and director behind Studio Ghibli, accounts for 22.3% of all Japanese-language votes, almost 13 magnitudes greater than Christopher Nolan’s proportion of English votes. 
 
-*Parasite* alone, through its international success, makes up 13.8% of all Korean-language votes. Bong Joon Ho, the director of Parasite, takes over 26% of the total share of Korean votes. 
+*Parasite* alone, through its international success, makes up 13.8% of all Korean-language votes. Bong Joon Ho, the director of *Parasite*, takes over 26% of the total share of Korean votes. 
 
 This appears in multiple languages, not just East Asian languages. For instance, when looking at the Danish language, 26% of all ratings come from the Academy Award winning director Thomas Vinterberg’s Danish films, such as *The Hunt* (2012) and *Another Round* (2020). 
 
@@ -110,7 +110,7 @@ Our findings support some expected results—a film by an established director, 
 
 Another applicable finding relates to the language itself.  We found that some languages appear to have an established market and therefore are a relatively safer bet: Spanish, French, German, Italian, and Japanese, for example.  This may be due in part to the number of speakers globally for each of the aforementioned languages, but our research indicates that it is not wholly responsible for their success.
  
-Perhaps more unexpectedly, given our findings when it came to user votes, genres, and “underrated gems,” Indian language films may be a category with wide potential that has not yet been fully realized.  The recent relative commercial success of Telugu film RRR (Rajamouli, 2022) could be seen as a more concrete example of this.
+Perhaps more unexpectedly, given our findings when it came to user votes, genres, and “underrated gems,” Indian language films may be a category with wide potential that has not yet been fully realized.  The recent relative commercial success of Telugu film *RRR* (Rajamouli, 2022) could be seen as a more concrete example of this.
  
 Some genres may also be a more attractive investment choice when it comes to non-English films.  Drama in particular has had obvious and sustained success, while Documentary has seen a rise in popularity over the past three decades.  Our research also suggested that films involving the genre combination of Crime, Drama, and Mystery have also done well.
  
@@ -121,4 +121,4 @@ Finally, our research could be applied with regards to IMDb users looking to dis
 ## Link to video demonstration
 
 ## Link to final report
-
+https://docs.google.com/document/d/1RLdIDwjCWFma5OJPNfnIWrraJmBBi1XG6GYdAse_NBg/edit
