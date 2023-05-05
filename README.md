@@ -119,6 +119,6 @@ A second potential application involves marketing, specifically marketing on the
 Finally, our research could be applied with regards to IMDb users looking to discover new films.  The underrated gems on our list provide non-English films that are highly rated with enough user votes (according to our definition) to offset bias, but are not globally well-known.  IMDb’s capability of introducing users to films they might not otherwise discover has certainly helped with its longevity, and we believe that our findings may expand on this.
 
 ## Link to video demonstration
-
+https://github.com/j-derrico/Spring-2023-Data-Mining-Project/blob/main/%20Group04_NonEnglishFilmEngagementonIMDb_part6_Video.mp4
 ## Link to final report
-https://docs.google.com/document/d/1RLdIDwjCWFma5OJPNfnIWrraJmBBi1XG6GYdAse_NBg/edit
+https://github.com/j-derrico/Spring-2023-Data-Mining-Project/blob/main/Group4_NonEnglishFilmEngagementOnIMDb_Part4.pdf
