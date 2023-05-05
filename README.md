@@ -78,7 +78,7 @@ Of the 74 films that fit the criteria above, only 21 of them are English-languag
 - *Late Spring* (Ozu, 1949), a Japanese movie ranked 22nd with a rating of 8.2 
 - *Ali: Fear Eats the Soul* (Fassbinder, 1974), a German movie ranked 53rd with a rating of 8.0 
 - *Sansho the Bailiff* (Mizoguchi, 1954), a Japanese movie ranked 76th with a rating of 8.4 
-- *A Matter of Life and Death* (Powell & Pressburger, 1946), an English film with ranked 83rd with a rating of 8.0
+- *A Matter of Life and Death* (Powell & Pressburger, 1946), an English film ranked 83rd with a rating of 8.0
 - *The Leopard* (Visconti, 1963), an Italian film ranked 91st with a rating of 8.0
 - *Ugetsu* (Mizoguchi, 1953), a Japanese film ranked 92nd with a rating of 8.2
 - *Yi Yi* (Yang, 2000), a Mandarin film ranked 94th with a rating of 8.1 
